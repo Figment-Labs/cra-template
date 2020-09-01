@@ -12,9 +12,6 @@
     "@types/react-dom": "^16.9.0",
     "chokidar-cli": "^2.1.0",
     "firebase": "^7.16.0",
-    "framer-motion": "^1.11.0",
-    "lodash": "^4.17.15",
-    "node-vibrant": "^3.1.5",
     "npm-run-all": "^4.1.5",
     "query-string": "^6.13.1",
     "react": "^16.13.1",
@@ -51,7 +48,6 @@
     ]
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.155",
     "@types/react-router-dom": "^5.1.5",
     "@typescript-eslint/eslint-plugin": "^3.2.0",
     "@typescript-eslint/parser": "^3.2.0",

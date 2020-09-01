@@ -1,3 +1,12 @@
+# Figment Labs CRA Template
+
+A template which provides a Typescript CRA project with React Router, Tailwind CSS, Firebase and pre-commit linting using ESLint and Prettier enabled. 
+
+Make sure you create a `.env` file with `REACT_APP_FIREBASE_INIT` set to a Base 64 encoded string of your Firebase app config object. You can do this in a console by using:
+```
+JSON.stringify(btoa(<FIREBASE CONFIG OBJECT>))
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
